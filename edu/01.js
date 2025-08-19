@@ -62,5 +62,5 @@ if(true) {
 }
 
 console.log(blockVar);
-console.log(blockLet);
-console.log(blockConst);
+// console.log(blockLet);
+// console.log(blockConst);
